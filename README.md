@@ -1,1 +1,3 @@
-# home-budget
+# Home Budget App
+
+Application for tracking of home budget.

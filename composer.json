@@ -1,0 +1,12 @@
+{
+    "name": "dragan/home-budget",
+    "description": "App for tracking home budget",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dragan Jancikin",
+            "email": "dragan.jancikin@gmail.com"
+        }
+    ],
+    "require": {}
+}
